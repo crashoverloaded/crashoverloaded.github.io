@@ -17,6 +17,9 @@
       skill_name: JavaScript
     - class: python-plain
       skill_name: Python
+    - class: ruby-plain
+      skill_name: Bash
+
 
 - name: databases
   skills:
