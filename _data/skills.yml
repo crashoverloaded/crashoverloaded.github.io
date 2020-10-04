@@ -8,7 +8,7 @@
 
 - name: languages
   skills:
-     - class: python-plain
+    - class: python-plain
       skill_name: Python
     - class: javascript-plain
       skill_name: Bash
