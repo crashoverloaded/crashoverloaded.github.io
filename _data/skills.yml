@@ -17,32 +17,17 @@
 
 - name: databases
   skills:
-    - class: postgresql-plain
-      skill_name: Postgresql
-    - class: mongodb-plain
-      skill_name: MongoDB
     - class: mysql-plain
       skill_name: MySQL
 
-- name: frontend frameworks
-  skills:
-    - class: react-plain
-      skill_name: React
-    - class: angularjs-plain
-      skill_name: Angular
-    - class: vuejs-plain
-      skill_name: Vue
-    - class: jekyll-plain
-      skill_name: Jekyll
-
-- name: backend frameworks
+- name: frameworks
   skills:
     - class: rails-plain
-      skill_name: Ruby-on-Rails
+      skill_name: Tensorflow
     - class: express-original
-      skill_name: Express
+      skill_name: Keras
     - class: nodejs-plain
-      skill_name: NodeJS
+      skill_name: Flask
     - class: django-plain
       skill_name: Django
 
@@ -54,8 +39,3 @@
       skill_name: GitHub
     - class: docker-plain
       skill_name: Docker
-
-- name: mobile
-  skills:
-    - class: react-original
-      skill_name: React Native
