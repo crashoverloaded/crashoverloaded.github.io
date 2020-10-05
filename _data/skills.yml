@@ -9,14 +9,14 @@
   skills:
     - class: python-plain
       skill_name: Python
-    - class: javascript-plain
+    - class: c-plain
       skill_name: C
-    - class: ruby-plain
+    - class: linux-plain
       skill_name: Bash
       
 - name: frameworks
   skills:
-    - class: rails-plain
+    - class: 
       skill_name: Tensorflow
     - class: express-original
       skill_name: Keras
