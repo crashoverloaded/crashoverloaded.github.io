@@ -13,13 +13,7 @@
       skill_name: C
     - class: ruby-plain
       skill_name: Bash
-
-
-- name: databases
-  skills:
-    - class: mysql-plain
-      skill_name: MySQL
-
+      
 - name: frameworks
   skills:
     - class: rails-plain
@@ -30,6 +24,11 @@
       skill_name: Flask
     - class: django-plain
       skill_name: Django
+
+- name: databases
+  skills:
+    - class: mysql-plain
+      skill_name: MySQL
 
 - name: devops
   skills:
