@@ -18,9 +18,9 @@
   skills:
     - class: 
       skill_name: Tensorflow
-    - class: express-original
+    - class:
       skill_name: Keras
-    - class: nodejs-plain
+    - class: 
       skill_name: Flask
     - class: django-plain
       skill_name: Django
