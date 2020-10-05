@@ -52,19 +52,8 @@
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
-    - class: heroku-original
-      skill_name: Heroku
     - class: docker-plain
       skill_name: Docker
-
-- name: testing
-  skills:
-    - class: mocha-plain
-      skill_name: Mocha
-    - class: jasmine-plain
-      skill_name: Jasmine
-    - class: rspec-plain
-      skill_name: RSpec
 
 - name: mobile
   skills:
