@@ -25,11 +25,6 @@
     - class: django-plain
       skill_name: Django
 
-- name: databases
-  skills:
-    - class: mysql-plain
-      skill_name: MySQL
-
 - name: devops
   skills:
     - class: git-plain
@@ -38,3 +33,8 @@
       skill_name: GitHub
     - class: docker-plain
       skill_name: Docker
+
+- name: databases
+  skills:
+    - class: mysql-plain
+      skill_name: MySQL
